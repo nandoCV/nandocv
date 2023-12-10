@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 🧑‍💻, my name is Fernando
+### Hi there 🖖 my name is Fernando
 #### I am a web developer
 ![I am a web developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
